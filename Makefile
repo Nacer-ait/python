@@ -1,0 +1,2 @@
+run:
+	python lire.py 
